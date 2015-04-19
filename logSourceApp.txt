@@ -1,0 +1,22 @@
+2015-04-19T22:49:27.683531+00:00 app[web.1]: Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+2015-04-19T22:49:27.682812+00:00 app[web.1]: Processing by ApplicationController#hello as HTML
+2015-04-19T23:06:13.638197+00:00 app[web.1]: Started GET "/" for 66.191.243.181 at 2015-04-19 23:06:13 +0000
+2015-04-19T23:06:13.640958+00:00 app[web.1]:   Rendered text template (0.0ms)
+2015-04-19T23:06:13.640339+00:00 app[web.1]: Processing by ApplicationController#hello as HTML
+2015-04-19T23:06:13.641126+00:00 app[web.1]: Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+2015-04-19T23:11:13.193005+00:00 app[web.1]: Started GET "/" for 66.191.243.181 at 2015-04-19 23:11:13 +0000
+2015-04-19T23:11:13.195526+00:00 app[web.1]:   Rendered text template (0.0ms)
+2015-04-19T23:11:13.194871+00:00 app[web.1]: Processing by ApplicationController#hello as HTML
+2015-04-19T23:11:13.195766+00:00 app[web.1]: Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+2015-04-19T23:12:08.559020+00:00 app[web.1]: Started GET "/" for 66.191.243.181 at 2015-04-19 23:12:08 +0000
+2015-04-19T23:12:08.561650+00:00 app[web.1]:   Rendered text template (0.0ms)
+2015-04-19T23:12:08.561048+00:00 app[web.1]: Processing by ApplicationController#hello as HTML
+2015-04-19T23:12:08.561838+00:00 app[web.1]: Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+2015-04-19T23:12:13.435330+00:00 app[web.1]: Started GET "/" for 66.191.243.181 at 2015-04-19 23:12:13 +0000
+2015-04-19T23:12:13.485219+00:00 app[web.1]:   Rendered text template (0.0ms)
+2015-04-19T23:12:13.484538+00:00 app[web.1]: Processing by ApplicationController#hello as HTML
+2015-04-19T23:12:13.485402+00:00 app[web.1]: Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+2015-04-19T23:12:20.142329+00:00 app[web.1]: Started GET "/" for 66.191.243.181 at 2015-04-19 23:12:20 +0000
+2015-04-19T23:12:20.144697+00:00 app[web.1]:   Rendered text template (0.0ms)
+2015-04-19T23:12:20.144154+00:00 app[web.1]: Processing by ApplicationController#hello as HTML
+2015-04-19T23:12:20.144996+00:00 app[web.1]: Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)

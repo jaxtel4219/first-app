@@ -1,0 +1,10 @@
+2015-04-19T23:18:22.297593+00:00 app[web.1]: Processing by ApplicationController#hello as HTML
+2015-04-19T23:18:22.298388+00:00 app[web.1]: Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+2015-04-19T23:19:42.233900+00:00 app[web.1]: Started GET "/" for 66.191.243.181 at 2015-04-19 23:19:42 +0000
+2015-04-19T23:19:42.241248+00:00 app[web.1]:   Rendered text template (0.0ms)
+2015-04-19T23:19:42.240706+00:00 app[web.1]: Processing by ApplicationController#hello as HTML
+2015-04-19T23:19:42.241426+00:00 app[web.1]: Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+2015-04-19T23:19:50.029330+00:00 app[web.1]: Started GET "/" for 66.191.243.181 at 2015-04-19 23:19:50 +0000
+2015-04-19T23:19:50.032058+00:00 app[web.1]:   Rendered text template (0.0ms)
+2015-04-19T23:19:50.031292+00:00 app[web.1]: Processing by ApplicationController#hello as HTML
+2015-04-19T23:19:50.032285+00:00 app[web.1]: Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
